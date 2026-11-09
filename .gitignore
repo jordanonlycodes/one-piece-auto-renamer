@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+episode_state.json
+*.tmp
+.env
